@@ -1,4 +1,5 @@
 //This is O(n) solution!!
+//ye run nhi hoga bcoz vo 3 variables declare hi mhi kiye. Just refer for logic
 
 #include<stdio.h>
 
