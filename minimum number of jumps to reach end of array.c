@@ -73,7 +73,7 @@ int minJumps(int a[],int n)  //Returns the minimum number of jumps.
 
 int main()
 {
-int a[100],i,j,mj[100],n;
+int a[100],i,j,n;
 printf("\t\t\nHow many elements do you want? => ");
 scanf("%d",&n);
 printf("\t\nPlz start filling your elements one by one.(NON NEGATIVE INTEGERS ONLY!!)");
